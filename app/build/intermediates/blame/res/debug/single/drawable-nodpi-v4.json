@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\CalendarNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\bg_btn_calendar_activated.xml",
+        "source": "C:\\Users\\yh\\Desktop\\CalendarNew\\app\\src\\main\\res\\drawable-nodpi\\bg_btn_calendar_activated.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\CalendarNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\bg_btn_calendar.xml",
+        "source": "C:\\Users\\yh\\Desktop\\CalendarNew\\app\\src\\main\\res\\drawable-nodpi\\bg_btn_calendar.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\CalendarNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\bg_btn_calendar_pressed.xml",
+        "source": "C:\\Users\\yh\\Desktop\\CalendarNew\\app\\src\\main\\res\\drawable-nodpi\\bg_btn_calendar_pressed.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\CalendarNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\bg_calendar_stroke.xml",
+        "source": "C:\\Users\\yh\\Desktop\\CalendarNew\\app\\src\\main\\res\\drawable-nodpi\\bg_calendar_stroke.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\CalendarNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\ic_arrow_right.xml",
+        "source": "C:\\Users\\yh\\Desktop\\CalendarNew\\app\\src\\main\\res\\drawable-nodpi\\ic_arrow_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\CalendarNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\ic_arrow_left.xml",
+        "source": "C:\\Users\\yh\\Desktop\\CalendarNew\\app\\src\\main\\res\\drawable-nodpi\\ic_arrow_left.xml"
+    }
+]

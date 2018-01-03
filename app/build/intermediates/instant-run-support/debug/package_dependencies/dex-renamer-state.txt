@@ -1,0 +1,7 @@
+#Thu Dec 21 15:41:40 CST 2017
+base.0=C\:\\Users\\yh\\Desktop\\CalendarNew\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\joda-time-2.3_b66fd08160c6d04e7bfc501cec1416e65e310c8f
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\yh\\Desktop\\CalendarNew\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-19.1.0_76191d2b9cb0e8c77d36fb319c226972d0947c8f\\classes.dex
+base.1=C\:\\Users\\yh\\Desktop\\CalendarNew\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-19.1.0_76191d2b9cb0e8c77d36fb319c226972d0947c8f
+file.0=C\:\\Users\\yh\\Desktop\\CalendarNew\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\joda-time-2.3_b66fd08160c6d04e7bfc501cec1416e65e310c8f\\classes.dex

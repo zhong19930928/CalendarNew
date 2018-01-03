@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\yh\Desktop\CalendarNew\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c323c36ecc68965c4cfb460f7721113d2b61ed03">
+        <dex dex="C:\Users\yh\Desktop\CalendarNew\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_0b676105716357169b6a8fcfb624de210623df14\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AS\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\yh\Desktop\CalendarNew\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-19.1.0_76191d2b9cb0e8c77d36fb319c226972d0947c8f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yh\Desktop\CalendarNew\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="65fa8a1f0b18a1a3b19f017355690fdb836a36ea">
+        <dex dex="C:\Users\yh\Desktop\CalendarNew\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_d15567617ef224705f126429755391798f3b1b4d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yh\.gradle\caches\modules-2\files-2.1\joda-time\joda-time\2.3\56498efd17752898cfcc3868c1b6211a07b12b8f\joda-time-2.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="56498efd17752898cfcc3868c1b6211a07b12b8f">
+        <dex dex="C:\Users\yh\Desktop\CalendarNew\app\build\intermediates\transforms\dex\debug\folders\1000\10\joda-time-2.3_b66fd08160c6d04e7bfc501cec1416e65e310c8f\classes.dex" />
+    </item>
+
+</items>

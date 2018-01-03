@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\CalendarNew\\app\\build\\intermediates\\res\\merged\\debug\\color\\text_calendar_out_month.xml",
+        "source": "C:\\Users\\yh\\Desktop\\CalendarNew\\app\\src\\main\\res\\color\\text_calendar_out_month.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\CalendarNew\\app\\build\\intermediates\\res\\merged\\debug\\color\\text_calendar_week.xml",
+        "source": "C:\\Users\\yh\\Desktop\\CalendarNew\\app\\src\\main\\res\\color\\text_calendar_week.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\CalendarNew\\app\\build\\intermediates\\res\\merged\\debug\\color\\text_calendar.xml",
+        "source": "C:\\Users\\yh\\Desktop\\CalendarNew\\app\\src\\main\\res\\color\\text_calendar.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\CalendarNew\\app\\build\\intermediates\\res\\merged\\debug\\color\\text_calendar_week_out_month.xml",
+        "source": "C:\\Users\\yh\\Desktop\\CalendarNew\\app\\src\\main\\res\\color\\text_calendar_week_out_month.xml"
+    }
+]

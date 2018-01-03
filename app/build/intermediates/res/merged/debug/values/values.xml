@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="weeks">
+        <item>一</item>
+        <item>二</item>
+        <item>三</item>
+        <item>四</item>
+        <item>五</item>
+        <item>六</item>
+        <item>日</item>
+    </string-array>
+    <attr format="reference" name="calendarViewStyle"/>
+    <color name="cal_blue_dark">#336F9C</color>
+    <color name="cal_blue_light">#8EC5EE</color>
+    <color name="cal_color_green">#FF16A085</color>
+    <color name="cal_color_point_blue">#FF1875D1</color>
+    <color name="cal_color_red">#FFE54E36</color>
+    <color name="cal_color_white">#FFFFFF</color>
+    <color name="cal_days_title">#F5F5F5</color>
+    <color name="cal_line_grey">#9B9B9B</color>
+    <color name="cal_stroke">#77d4f6</color>
+    <color name="cal_text_light">#ababab</color>
+    <color name="cal_text_normal">#4A4A4A</color>
+    <color name="cal_text_super_light">#c0c0c0</color>
+    <color name="cal_vertical_line">#E9F6FF</color>
+    <declare-styleable name="day"><attr format="boolean" name="state_current"/></declare-styleable>
+    <string name="time_next">Next</string>
+    <string name="time_prev">Previous</string>
+    <style name="CalendarStyle">
+        <item name="android:orientation">vertical</item>
+    </style>
+    <style name="CalendarTheme">
+        <item name="calendarViewStyle">@style/CalendarStyle</item>
+    </style>
+</resources>

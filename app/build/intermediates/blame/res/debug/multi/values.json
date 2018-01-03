@@ -1,0 +1,374 @@
+[
+    {
+        "outputFile": "C:\\Users\\yh\\Desktop\\CalendarNew\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 10,
+                    "endColumn": 19,
+                    "endOffset": 263
+                },
+                "from": {
+                    "file": "C:\\Users\\yh\\Desktop\\CalendarNew\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 108,
+                        "endLine": 13,
+                        "endColumn": 19,
+                        "endOffset": 316
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 268,
+                    "endColumn": 55,
+                    "endOffset": 319
+                },
+                "from": {
+                    "file": "C:\\Users\\yh\\Desktop\\CalendarNew\\app\\src\\main\\res\\values\\attrs.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 172,
+                        "endColumn": 56,
+                        "endOffset": 224
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 324,
+                    "endColumn": 47,
+                    "endOffset": 367
+                },
+                "from": {
+                    "file": "C:\\Users\\yh\\Desktop\\CalendarNew\\app\\src\\main\\res\\values\\collors.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 287,
+                        "endColumn": 47,
+                        "endOffset": 330
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 372,
+                    "endColumn": 48,
+                    "endOffset": 416
+                },
+                "from": {
+                    "file": "C:\\Users\\yh\\Desktop\\CalendarNew\\app\\src\\main\\res\\values\\collors.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 238,
+                        "endColumn": 48,
+                        "endOffset": 282
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 421,
+                    "endColumn": 51,
+                    "endOffset": 468
+                },
+                "from": {
+                    "file": "C:\\Users\\yh\\Desktop\\CalendarNew\\app\\src\\main\\res\\values\\collors.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 629,
+                        "endColumn": 51,
+                        "endOffset": 676
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 473,
+                    "endColumn": 56,
+                    "endOffset": 525
+                },
+                "from": {
+                    "file": "C:\\Users\\yh\\Desktop\\CalendarNew\\app\\src\\main\\res\\values\\collors.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 681,
+                        "endColumn": 56,
+                        "endOffset": 733
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 530,
+                    "endColumn": 49,
+                    "endOffset": 575
+                },
+                "from": {
+                    "file": "C:\\Users\\yh\\Desktop\\CalendarNew\\app\\src\\main\\res\\values\\collors.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 579,
+                        "endColumn": 49,
+                        "endOffset": 624
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 580,
+                    "endColumn": 49,
+                    "endOffset": 625
+                },
+                "from": {
+                    "file": "C:\\Users\\yh\\Desktop\\CalendarNew\\app\\src\\main\\res\\values\\collors.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 529,
+                        "endColumn": 49,
+                        "endOffset": 574
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 630,
+                    "endColumn": 48,
+                    "endOffset": 674
+                },
+                "from": {
+                    "file": "C:\\Users\\yh\\Desktop\\CalendarNew\\app\\src\\main\\res\\values\\collors.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 380,
+                        "endColumn": 48,
+                        "endOffset": 424
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 679,
+                    "endColumn": 47,
+                    "endOffset": 722
+                },
+                "from": {
+                    "file": "C:\\Users\\yh\\Desktop\\CalendarNew\\app\\src\\main\\res\\values\\collors.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 481,
+                        "endColumn": 47,
+                        "endOffset": 524
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 727,
+                    "endColumn": 44,
+                    "endOffset": 767
+                },
+                "from": {
+                    "file": "C:\\Users\\yh\\Desktop\\CalendarNew\\app\\src\\main\\res\\values\\collors.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 335,
+                        "endColumn": 44,
+                        "endOffset": 375
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 772,
+                    "endColumn": 48,
+                    "endOffset": 816
+                },
+                "from": {
+                    "file": "C:\\Users\\yh\\Desktop\\CalendarNew\\app\\src\\main\\res\\values\\collors.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 134,
+                        "endColumn": 48,
+                        "endOffset": 178
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 821,
+                    "endColumn": 49,
+                    "endOffset": 866
+                },
+                "from": {
+                    "file": "C:\\Users\\yh\\Desktop\\CalendarNew\\app\\src\\main\\res\\values\\collors.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 84,
+                        "endColumn": 49,
+                        "endOffset": 129
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 871,
+                    "endColumn": 54,
+                    "endOffset": 921
+                },
+                "from": {
+                    "file": "C:\\Users\\yh\\Desktop\\CalendarNew\\app\\src\\main\\res\\values\\collors.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 183,
+                        "endColumn": 54,
+                        "endOffset": 233
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 926,
+                    "endColumn": 51,
+                    "endOffset": 973
+                },
+                "from": {
+                    "file": "C:\\Users\\yh\\Desktop\\CalendarNew\\app\\src\\main\\res\\values\\collors.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 429,
+                        "endColumn": 51,
+                        "endOffset": 476
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1078,
+                    "endColumn": 42,
+                    "endOffset": 1116
+                },
+                "from": {
+                    "file": "C:\\Users\\yh\\Desktop\\CalendarNew\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endColumn": 42,
+                        "endOffset": 55
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1121,
+                    "endColumn": 46,
+                    "endOffset": 1163
+                },
+                "from": {
+                    "file": "C:\\Users\\yh\\Desktop\\CalendarNew\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 60,
+                        "endColumn": 46,
+                        "endOffset": 102
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1168,
+                    "endLine": 30,
+                    "endColumn": 12,
+                    "endOffset": 1266
+                },
+                "from": {
+                    "file": "C:\\Users\\yh\\Desktop\\CalendarNew\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 174,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 272
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1271,
+                    "endLine": 33,
+                    "endColumn": 12,
+                    "endOffset": 1379
+                },
+                "from": {
+                    "file": "C:\\Users\\yh\\Desktop\\CalendarNew\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 60,
+                        "endLine": 5,
+                        "endColumn": 12,
+                        "endOffset": 168
+                    }
+                }
+            }
+        ]
+    }
+]

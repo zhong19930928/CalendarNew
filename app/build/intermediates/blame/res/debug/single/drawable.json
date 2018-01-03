@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\CalendarNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_calendar_point_white.xml",
+        "source": "C:\\Users\\yh\\Desktop\\CalendarNew\\app\\src\\main\\res\\drawable\\bg_calendar_point_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\CalendarNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_calendar_point_blue.xml",
+        "source": "C:\\Users\\yh\\Desktop\\CalendarNew\\app\\src\\main\\res\\drawable\\bg_calendar_point_blue.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\CalendarNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_day_type_blue.xml",
+        "source": "C:\\Users\\yh\\Desktop\\CalendarNew\\app\\src\\main\\res\\drawable\\bg_day_type_blue.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\CalendarNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_btn_calendar_today.xml",
+        "source": "C:\\Users\\yh\\Desktop\\CalendarNew\\app\\src\\main\\res\\drawable\\bg_btn_calendar_today.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\CalendarNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_btn_calendar_today_selected.xml",
+        "source": "C:\\Users\\yh\\Desktop\\CalendarNew\\app\\src\\main\\res\\drawable\\bg_btn_calendar_today_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\CalendarNew\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_day_type_red.xml",
+        "source": "C:\\Users\\yh\\Desktop\\CalendarNew\\app\\src\\main\\res\\drawable\\bg_day_type_red.xml"
+    }
+]

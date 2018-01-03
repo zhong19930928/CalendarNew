@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\CalendarNew\\app\\build\\intermediates\\res\\merged\\debug\\layout\\calendar_layout.xml",
+        "source": "C:\\Users\\yh\\Desktop\\CalendarNew\\app\\src\\main\\res\\layout\\calendar_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\CalendarNew\\app\\build\\intermediates\\res\\merged\\debug\\layout\\week_layout.xml",
+        "source": "C:\\Users\\yh\\Desktop\\CalendarNew\\app\\src\\main\\res\\layout\\week_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\CalendarNew\\app\\build\\intermediates\\res\\merged\\debug\\layout\\day_layout.xml",
+        "source": "C:\\Users\\yh\\Desktop\\CalendarNew\\app\\src\\main\\res\\layout\\day_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\yh\\Desktop\\CalendarNew\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\yh\\Desktop\\CalendarNew\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]
